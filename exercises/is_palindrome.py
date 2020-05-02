@@ -10,10 +10,10 @@ def is_palindrome(x):
     return True
 
 
-print is_palindrome("abccba")    # True
-print is_palindrome("abcbca")    # False
-print is_palindrome("abcdcba")   # True
-print is_palindrome("a")         # True
-print is_palindrome("ab")        # False
-print is_palindrome("aa")        # True
-print is_palindrome("")          # True
+print(is_palindrome("abccba"))  # True
+print(is_palindrome("abcbca"))  # False
+print(is_palindrome("abcdcba"))  # True
+print(is_palindrome("a"))  # True
+print(is_palindrome("ab"))  # False
+print(is_palindrome("aa"))  # True
+print(is_palindrome(""))  # True
