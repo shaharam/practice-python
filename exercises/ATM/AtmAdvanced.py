@@ -1,4 +1,4 @@
-#from ATM_project.Atm import Atm
+from . import Atm
 
 
 class AtmAdvanced(Atm):
